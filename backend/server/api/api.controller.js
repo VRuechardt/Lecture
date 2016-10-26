@@ -27,3 +27,18 @@ module.exports.addition = function(req, res) {
     }
 
 };
+
+module.exports.login = function(req, res) {
+
+    if(req.body.username && req.body.username === 'FOM16'
+    && req.body.password && req.body.password === 'koffein') {
+
+        return res.status(200).json({result: 'login success'});
+
+    } else {
+
+        return res.sendStatus(400);
+
+    }
+
+};

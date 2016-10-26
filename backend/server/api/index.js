@@ -9,5 +9,6 @@ var controller = require('./api.controller.js');
 
 router.get('/', controller.sendHandshake);
 router.post('/add', controller.addition);
+router.post('/login', controller.login);
 
 module.exports = router;
