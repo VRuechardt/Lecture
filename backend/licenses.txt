@@ -1,0 +1,930 @@
+├─ accepts@1.3.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/accepts
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\accepts\LICENSE
+├─ ansi-regex@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/ansi-regex
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\ansi-regex\license
+├─ ansi-styles@2.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/ansi-styles
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\ansi-styles\license
+├─ array-flatten@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/blakeembrey/array-flatten
+│  ├─ publisher: Blake Embrey
+│  ├─ email: hello@blakeembrey.com
+│  ├─ url: http://blakeembrey.me
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\array-flatten\LICENSE
+├─ asn1@0.2.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mcavage/node-asn1
+│  ├─ publisher: Mark Cavage
+│  ├─ email: mcavage@gmail.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\asn1\LICENSE
+├─ assert-plus@0.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mcavage/node-assert-plus
+│  ├─ publisher: Mark Cavage
+│  └─ email: mcavage@gmail.com
+├─ assert-plus@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mcavage/node-assert-plus
+│  ├─ publisher: Mark Cavage
+│  └─ email: mcavage@gmail.com
+├─ async@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/caolan/async
+│  ├─ publisher: Caolan McMahon
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\winston\node_modules\async\LICENSE
+├─ async@1.5.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/caolan/async
+│  ├─ publisher: Caolan McMahon
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\async\LICENSE
+├─ aws-sign2@0.6.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/mikeal/aws-sign
+│  ├─ publisher: Mikeal Rogers
+│  ├─ email: mikeal.rogers@gmail.com
+│  ├─ url: http://www.futurealoof.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\aws-sign2\LICENSE
+├─ aws4@1.4.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mhart/aws4
+│  ├─ publisher: Michael Hart
+│  ├─ email: michael.hart.au@gmail.com
+│  ├─ url: http://github.com/mhart
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\aws4\LICENSE
+├─ base64-url@1.2.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/joaquimserafim/base64-url
+│  ├─ publisher: @joaquimserafim
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\base64-url\LICENSE
+├─ basic-auth@1.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/basic-auth
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\basic-auth\LICENSE
+├─ bignumber.js@2.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/MikeMcl/bignumber.js
+│  ├─ publisher: Michael Mclaughlin
+│  ├─ email: M8ch88l@gmail.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\bignumber.js\LICENCE
+├─ bl@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/rvagg/bl
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\bl\LICENSE.md
+├─ bluebird@3.4.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/petkaantonov/bluebird
+│  ├─ publisher: Petka Antonov
+│  ├─ email: petka_antonov@hotmail.com
+│  ├─ url: http://github.com/petkaantonov/
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\bluebird\LICENSE
+├─ body-parser@1.15.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/expressjs/body-parser
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\body-parser\LICENSE
+├─ boom@2.10.1
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/hapijs/boom
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\boom\LICENSE
+├─ bytes@2.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/visionmedia/bytes.js
+│  ├─ publisher: TJ Holowaychuk
+│  ├─ email: tj@vision-media.ca
+│  ├─ url: http://tjholowaychuk.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\compression\node_modules\bytes\LICENSE
+├─ bytes@2.4.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/visionmedia/bytes.js
+│  ├─ publisher: TJ Holowaychuk
+│  ├─ email: tj@vision-media.ca
+│  ├─ url: http://tjholowaychuk.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\bytes\LICENSE
+├─ caseless@0.11.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/mikeal/caseless
+│  ├─ publisher: Mikeal Rogers
+│  ├─ email: mikeal.rogers@gmail.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\caseless\LICENSE
+├─ chalk@1.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/chalk
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\chalk\license
+├─ colors@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Marak/colors.js
+│  └─ publisher: Marak Squires
+├─ combined-stream@1.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/felixge/node-combined-stream
+│  ├─ publisher: Felix Geisendörfer
+│  ├─ email: felix@debuggable.com
+│  ├─ url: http://debuggable.com/
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\combined-stream\License
+├─ commander@2.9.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/tj/commander.js
+│  ├─ publisher: TJ Holowaychuk
+│  ├─ email: tj@vision-media.ca
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\commander\LICENSE
+├─ compressible@2.0.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/compressible
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\compressible\LICENSE
+├─ compression@1.6.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/expressjs/compression
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\compression\LICENSE
+├─ content-disposition@0.5.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/content-disposition
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\content-disposition\LICENSE
+├─ content-type@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/content-type
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\content-type\LICENSE
+├─ cookie@0.2.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/cookie
+│  ├─ publisher: Roman Shtylman
+│  ├─ email: shtylman@gmail.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\express-session\node_modules\cookie\LICENSE
+├─ cookie@0.3.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/cookie
+│  ├─ publisher: Roman Shtylman
+│  ├─ email: shtylman@gmail.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\cookie\LICENSE
+├─ cookie-signature@1.0.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/visionmedia/node-cookie-signature
+│  ├─ publisher: TJ Holowaychuk
+│  └─ email: tj@learnboost.com
+├─ core-util-is@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/isaacs/core-util-is
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\core-util-is\LICENSE
+├─ cors@2.7.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/expressjs/cors
+│  ├─ publisher: Troy Goode
+│  ├─ email: troygoode@gmail.com
+│  ├─ url: https://github.com/troygoode/
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\cors\LICENSE
+├─ crc@3.4.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/alexgorbatchev/node-crc
+│  ├─ publisher: Alex Gorbatchev
+│  ├─ url: https://github.com/alexgorbatchev
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\crc\LICENSE
+├─ cryptiles@2.0.5
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/hapijs/cryptiles
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\cryptiles\LICENSE
+├─ cycle@1.0.3
+│  ├─ licenses: UNKNOWN
+│  └─ repository: https://github.com/dscape/cycle
+├─ dashdash@1.14.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/trentm/node-dashdash
+│  ├─ publisher: Trent Mick
+│  ├─ email: trentm@gmail.com
+│  └─ url: http://trentm.com
+├─ debug@2.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/visionmedia/debug
+│  ├─ publisher: TJ Holowaychuk
+│  └─ email: tj@vision-media.ca
+├─ delayed-stream@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/felixge/node-delayed-stream
+│  ├─ publisher: Felix Geisendörfer
+│  ├─ email: felix@debuggable.com
+│  ├─ url: http://debuggable.com/
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\delayed-stream\License
+├─ depd@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/dougwilson/nodejs-depd
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\depd\LICENSE
+├─ destroy@1.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/stream-utils/destroy
+│  ├─ publisher: Jonathan Ong
+│  ├─ email: me@jongleberry.com
+│  ├─ url: http://jongleberry.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\destroy\LICENSE
+├─ dottie@1.1.1
+│  ├─ licenses: MIT*
+│  ├─ repository: https://github.com/mickhansen/dottie.js
+│  ├─ publisher: Mick Hansen
+│  ├─ email: maker@mhansen.io
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\dottie\LICENSE
+├─ ecc-jsbn@0.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/quartzjer/ecc-jsbn
+│  ├─ publisher: Jeremie Miller
+│  ├─ email: jeremie@jabber.org
+│  ├─ url: http://jeremie.com/
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\ecc-jsbn\LICENSE
+├─ ee-first@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonathanong/ee-first
+│  ├─ publisher: Jonathan Ong
+│  ├─ email: me@jongleberry.com
+│  ├─ url: http://jongleberry.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\ee-first\LICENSE
+├─ encodeurl@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/pillarjs/encodeurl
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\encodeurl\LICENSE
+├─ errorhandler@1.4.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/expressjs/errorhandler
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\errorhandler\LICENSE
+├─ escape-html@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/component/escape-html
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\escape-html\LICENSE
+├─ escape-string-regexp@1.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/escape-string-regexp
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\escape-string-regexp\license
+├─ etag@1.7.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/etag
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\etag\LICENSE
+├─ express@4.14.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/expressjs/express
+│  ├─ publisher: TJ Holowaychuk
+│  ├─ email: tj@vision-media.ca
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\express\LICENSE
+├─ express-session@1.13.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/expressjs/session
+│  ├─ publisher: TJ Holowaychuk
+│  ├─ email: tj@vision-media.ca
+│  ├─ url: http://tjholowaychuk.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\express-session\LICENSE
+├─ extend@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/justmoon/node-extend
+│  ├─ publisher: Stefan Thomas
+│  ├─ email: justmoon@members.fsf.org
+│  ├─ url: http://www.justmoon.net
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\extend\LICENSE
+├─ extsprintf@1.0.2
+│  ├─ licenses: MIT*
+│  ├─ repository: https://github.com/davepacheco/node-extsprintf
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\extsprintf\LICENSE
+├─ eyes@0.1.8
+│  ├─ licenses: MIT
+│  ├─ publisher: Alexis Sellier
+│  ├─ email: self@cloudhead.net
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\eyes\LICENSE
+├─ finalhandler@0.5.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/pillarjs/finalhandler
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\finalhandler\LICENSE
+├─ forever-agent@0.6.1
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/mikeal/forever-agent
+│  ├─ publisher: Mikeal Rogers
+│  ├─ email: mikeal.rogers@gmail.com
+│  ├─ url: http://www.futurealoof.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\forever-agent\LICENSE
+├─ form-data@1.0.0-rc4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/form-data/form-data
+│  ├─ publisher: Felix Geisendörfer
+│  ├─ email: felix@debuggable.com
+│  ├─ url: http://debuggable.com/
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\form-data\License
+├─ forwarded@0.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/forwarded
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\forwarded\LICENSE
+├─ fresh@0.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/fresh
+│  ├─ publisher: TJ Holowaychuk
+│  ├─ email: tj@vision-media.ca
+│  ├─ url: http://tjholowaychuk.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\fresh\LICENSE
+├─ fs@0.0.2
+│  └─ licenses: MIT
+├─ generate-function@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mafintosh/generate-function
+│  └─ publisher: Mathias Buus
+├─ generate-object-property@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mafintosh/generate-object-property
+│  ├─ publisher: Mathias Buus
+│  ├─ url: @mafintosh
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\generate-object-property\LICENSE
+├─ generic-pool@2.4.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/coopernurse/node-pool
+│  ├─ publisher: James Cooper
+│  └─ email: james@bitmechanic.com
+├─ getpass@0.1.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/arekinath/node-getpass
+│  ├─ publisher: Alex Wilson
+│  ├─ email: alex.wilson@joyent.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\getpass\LICENSE
+├─ graceful-readlink@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/zhiyelee/graceful-readlink
+│  ├─ publisher: zhiyelee
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\graceful-readlink\LICENSE
+├─ har-validator@2.0.6
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/ahmadnassri/har-validator
+│  ├─ publisher: Ahmad Nassri
+│  ├─ email: ahmad@ahmadnassri.com
+│  ├─ url: https://www.ahmadnassri.com/
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\har-validator\LICENSE
+├─ has-ansi@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/has-ansi
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\has-ansi\license
+├─ hawk@3.1.3
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/hueniverse/hawk
+│  ├─ publisher: Eran Hammer
+│  ├─ email: eran@hammer.io
+│  ├─ url: http://hueniverse.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\hawk\LICENSE
+├─ hoek@2.16.3
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/hapijs/hoek
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\hoek\LICENSE
+├─ http-errors@1.5.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/http-errors
+│  ├─ publisher: Jonathan Ong
+│  ├─ email: me@jongleberry.com
+│  ├─ url: http://jongleberry.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\http-errors\LICENSE
+├─ http-signature@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/joyent/node-http-signature
+│  ├─ publisher: Joyent, Inc
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\http-signature\LICENSE
+├─ https@1.0.0
+│  ├─ licenses: ISC
+│  ├─ publisher: hardus van der berg
+│  ├─ email: hardus@sunfork.com
+│  └─ url: http://www.sunfork.com
+├─ iconv-lite@0.4.13
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ashtuchkin/iconv-lite
+│  ├─ publisher: Alexander Shtuchkin
+│  ├─ email: ashtuchkin@gmail.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\iconv-lite\LICENSE
+├─ inflection@1.10.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/dreamerslab/node.inflection
+│  ├─ publisher: dreamerslab
+│  └─ email: ben@dreamerslab.com
+├─ inherits@2.0.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/inherits
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\inherits\LICENSE
+├─ ipaddr.js@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/whitequark/ipaddr.js
+│  ├─ publisher: whitequark
+│  ├─ email: whitequark@whitequark.org
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\ipaddr.js\LICENSE
+├─ is-my-json-valid@2.13.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mafintosh/is-my-json-valid
+│  ├─ publisher: Mathias Buus
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\is-my-json-valid\LICENSE
+├─ is-property@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mikolalysenko/is-property
+│  ├─ publisher: Mikola Lysenko
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\is-property\LICENSE
+├─ is-typedarray@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/hughsk/is-typedarray
+│  ├─ publisher: Hugh Kennedy
+│  ├─ email: hughskennedy@gmail.com
+│  ├─ url: http://hughsk.io/
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\is-typedarray\LICENSE.md
+├─ isarray@0.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/juliangruber/isarray
+│  ├─ publisher: Julian Gruber
+│  ├─ email: mail@juliangruber.com
+│  └─ url: http://juliangruber.com
+├─ isarray@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/juliangruber/isarray
+│  ├─ publisher: Julian Gruber
+│  ├─ email: mail@juliangruber.com
+│  └─ url: http://juliangruber.com
+├─ isstream@0.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/rvagg/isstream
+│  ├─ publisher: Rod Vagg
+│  ├─ email: rod@vagg.org
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\isstream\LICENSE.md
+├─ jodid25519@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/meganz/jodid25519
+│  ├─ publisher: Michele Bini, Ron Garret, Guy K. Kloss
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\jodid25519\LICENSE
+├─ jsbn@0.1.0
+│  ├─ licenses: BSD
+│  ├─ repository: https://github.com/andyperlitch/jsbn
+│  ├─ publisher: Tom Wu
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\jsbn\LICENSE
+├─ json-schema@0.2.2
+│  ├─ licenses
+│  │  ├─ 0: AFLv2.1
+│  │  └─ 1: BSD
+│  ├─ repository: https://github.com/kriszyp/json-schema
+│  └─ publisher: Kris Zyp
+├─ json-stringify-safe@5.0.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/json-stringify-safe
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\json-stringify-safe\LICENSE
+├─ jsonpointer@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/janl/node-jsonpointer
+│  ├─ publisher: Jan Lehnardt
+│  └─ email: jan@apache.org
+├─ jsprim@1.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/davepacheco/node-jsprim
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\jsprim\LICENSE
+├─ lodash@4.12.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ publisher: John-David Dalton
+│  ├─ email: john.david.dalton@gmail.com
+│  ├─ url: http://allyoucanleet.com/
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\sequelize\node_modules\lodash\LICENSE
+├─ lodash@4.13.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ publisher: John-David Dalton
+│  ├─ email: john.david.dalton@gmail.com
+│  ├─ url: http://allyoucanleet.com/
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\lodash\LICENSE
+├─ media-typer@0.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/media-typer
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\media-typer\LICENSE
+├─ merge-descriptors@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/component/merge-descriptors
+│  ├─ publisher: Jonathan Ong
+│  ├─ email: me@jongleberry.com
+│  ├─ url: http://jongleberry.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\merge-descriptors\LICENSE
+├─ methods@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/methods
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\methods\LICENSE
+├─ mime@1.3.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/broofa/node-mime
+│  ├─ publisher: Robert Kieffer
+│  ├─ email: robert@broofa.com
+│  ├─ url: http://github.com/broofa
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\mime\LICENSE
+├─ mime-db@1.23.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/mime-db
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\mime-db\LICENSE
+├─ mime-types@2.1.11
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/mime-types
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\mime-types\LICENSE
+├─ moment@2.13.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/moment/moment
+│  ├─ publisher: Iskren Ivov Chernev
+│  ├─ email: iskren.chernev@gmail.com
+│  ├─ url: https://github.com/ichernev
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\moment\LICENSE
+├─ moment-timezone@0.5.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/moment/moment-timezone
+│  ├─ publisher: Tim Wood
+│  ├─ email: washwithcare@gmail.com
+│  ├─ url: http://timwoodcreates.com/
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\moment-timezone\LICENSE
+├─ morgan@1.7.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/expressjs/morgan
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\morgan\LICENSE
+├─ ms@0.7.1
+│  ├─ licenses: MIT*
+│  ├─ repository: https://github.com/guille/ms.js
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\ms\LICENSE
+├─ mysql@2.11.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/felixge/node-mysql
+│  ├─ publisher: Felix Geisendörfer
+│  ├─ email: felix@debuggable.com
+│  ├─ url: http://debuggable.com/
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\mysql\License
+├─ negotiator@0.6.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/negotiator
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\negotiator\LICENSE
+├─ node-uuid@1.4.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/broofa/node-uuid
+│  ├─ publisher: Robert Kieffer
+│  ├─ email: robert@broofa.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\node-uuid\LICENSE.md
+├─ oauth-sign@0.8.2
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/mikeal/oauth-sign
+│  ├─ publisher: Mikeal Rogers
+│  ├─ email: mikeal.rogers@gmail.com
+│  ├─ url: http://www.futurealoof.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\oauth-sign\LICENSE
+├─ on-finished@2.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/on-finished
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\on-finished\LICENSE
+├─ on-headers@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/on-headers
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\on-headers\LICENSE
+├─ parseurl@1.3.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/pillarjs/parseurl
+│  ├─ publisher: Jonathan Ong
+│  ├─ email: me@jongleberry.com
+│  ├─ url: http://jongleberry.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\parseurl\LICENSE
+├─ path-to-regexp@0.1.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/component/path-to-regexp
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\path-to-regexp\LICENSE
+├─ pinkie@2.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/floatdrop/pinkie
+│  ├─ publisher: Vsevolod Strukchinsky
+│  ├─ email: floatdrop@gmail.com
+│  ├─ url: github.com/floatdrop
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\pinkie\license
+├─ pinkie-promise@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/floatdrop/pinkie-promise
+│  ├─ publisher: Vsevolod Strukchinsky
+│  ├─ email: floatdrop@gmail.com
+│  ├─ url: github.com/floatdrop
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\pinkie-promise\license
+├─ pkginfo@0.3.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/indexzero/node-pkginfo
+│  ├─ publisher: Charlie Robbins
+│  ├─ email: charlie.robbins@gmail.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\pkginfo\LICENSE
+├─ process-nextick-args@1.0.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/calvinmetcalf/process-nextick-args
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\process-nextick-args\license.md
+├─ proxy-addr@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/proxy-addr
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\proxy-addr\LICENSE
+├─ q@1.4.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/kriskowal/q
+│  ├─ publisher: Kris Kowal
+│  ├─ email: kris@cixar.com
+│  ├─ url: https://github.com/kriskowal
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\q\LICENSE
+├─ qs@6.2.0
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/ljharb/qs
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\qs\LICENSE
+├─ range-parser@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/range-parser
+│  ├─ publisher: TJ Holowaychuk
+│  ├─ email: tj@vision-media.ca
+│  ├─ url: http://tjholowaychuk.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\range-parser\LICENSE
+├─ raw-body@2.1.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/stream-utils/raw-body
+│  ├─ publisher: Jonathan Ong
+│  ├─ email: me@jongleberry.com
+│  ├─ url: http://jongleberry.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\raw-body\LICENSE
+├─ readable-stream@1.1.14
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/isaacs/readable-stream
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\readable-stream\LICENSE
+├─ readable-stream@2.0.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nodejs/readable-stream
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\bl\node_modules\readable-stream\LICENSE
+├─ redefine@0.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/WebReflection/redefine
+│  ├─ publisher: Andrea Giammarchi
+│  ├─ email: andrea.giammarchi@gmail.com
+│  ├─ url: http://webreflection.blogspot.com/
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\redefine\LICENSE.txt
+├─ regiotv-backend@1.0.0
+│  ├─ licenses: MIT
+│  └─ publisher: Valentin Ruechardt
+├─ request@2.74.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/request/request
+│  ├─ publisher: Mikeal Rogers
+│  ├─ email: mikeal.rogers@gmail.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\request\LICENSE
+├─ request-promise@4.1.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/request/request-promise
+│  ├─ publisher: Nicolai Kamenzky
+│  ├─ url: https://github.com/analog-nico
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\request-promise\LICENSE
+├─ request-promise-core@1.1.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/request/promise-core
+│  ├─ publisher: Nicolai Kamenzky
+│  ├─ url: https://github.com/analog-nico
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\request-promise-core\LICENSE
+├─ resolve@1.1.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/node-resolve
+│  ├─ publisher: James Halliday
+│  ├─ email: mail@substack.net
+│  ├─ url: http://substack.net
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\resolve\LICENSE
+├─ retry-as-promised@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mickhansen/retry-as-promised
+│  ├─ publisher: Mick Hansen
+│  ├─ email: maker@mhansen.io
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\retry-as-promised\LICENSE
+├─ sax@1.2.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/sax-js
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\sax\LICENSE
+├─ semver@5.3.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/node-semver
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\semver\LICENSE
+├─ send@0.14.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/pillarjs/send
+│  ├─ publisher: TJ Holowaychuk
+│  ├─ email: tj@vision-media.ca
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\send\LICENSE
+├─ sequelize@3.24.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sequelize/sequelize
+│  ├─ publisher: Sascha Depold
+│  ├─ email: sascha@depold.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\sequelize\LICENSE
+├─ serve-static@1.11.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/expressjs/serve-static
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\serve-static\LICENSE
+├─ setprototypeof@1.0.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/wesleytodd/setprototypeof
+│  ├─ publisher: Wes Todd
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\setprototypeof\LICENSE
+├─ shimmer@1.1.0
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/othiym23/shimmer
+│  ├─ publisher: Forrest L Norvell
+│  └─ email: ogd@aoaioxxysz.net
+├─ sntp@1.0.9
+│  ├─ licenses: BSD
+│  ├─ repository: https://github.com/hueniverse/sntp
+│  ├─ publisher: Eran Hammer
+│  ├─ email: eran@hammer.io
+│  ├─ url: http://hueniverse.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\sntp\LICENSE
+├─ sqlstring@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mysqljs/sqlstring
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\sqlstring\LICENSE
+├─ sshpk@1.9.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/arekinath/node-sshpk
+│  ├─ publisher: Joyent, Inc
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\sshpk\LICENSE
+├─ stack-trace@0.0.9
+│  ├─ licenses: MIT*
+│  ├─ repository: https://github.com/felixge/node-stack-trace
+│  ├─ publisher: Felix Geisendörfer
+│  ├─ email: felix@debuggable.com
+│  ├─ url: http://debuggable.com/
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\stack-trace\License
+├─ statuses@1.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/statuses
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\statuses\LICENSE
+├─ stealthy-require@1.0.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/analog-nico/stealthy-require
+│  ├─ publisher: Nicolai Kamenzky
+│  ├─ url: https://github.com/analog-nico
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\stealthy-require\LICENSE
+├─ string_decoder@0.10.31
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/rvagg/string_decoder
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\string_decoder\LICENSE
+├─ stringstream@0.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mhart/StringStream
+│  ├─ publisher: Michael Hart
+│  ├─ email: michael.hart.au@gmail.com
+│  ├─ url: http://github.com/mhart
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\stringstream\LICENSE.txt
+├─ strip-ansi@3.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/strip-ansi
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\strip-ansi\license
+├─ supports-color@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/supports-color
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\supports-color\license
+├─ terraformer@1.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/esri/terraformer
+│  ├─ publisher: Patrick Arlt
+│  ├─ email: parlt@esri.com
+│  ├─ url: http://patrickarlt.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\terraformer\LICENSE
+├─ terraformer-wkt-parser@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Esri/terraformer-wkt-parser
+│  ├─ publisher: Jerry Sievert
+│  ├─ email: code@legitimatesounding.com
+│  ├─ url: http://legitimatesounding.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\terraformer-wkt-parser\LICENSE
+├─ toposort-class@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gustavohenke/toposort
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\toposort-class\LICENSE
+├─ tough-cookie@2.3.1
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/SalesforceEng/tough-cookie
+│  ├─ publisher: Jeremy Stashewsky
+│  ├─ email: jstashewsky@salesforce.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\tough-cookie\LICENSE
+├─ tunnel-agent@0.4.3
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/mikeal/tunnel-agent
+│  ├─ publisher: Mikeal Rogers
+│  ├─ email: mikeal.rogers@gmail.com
+│  ├─ url: http://www.futurealoof.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\tunnel-agent\LICENSE
+├─ tweetnacl@0.13.3
+│  ├─ licenses: Public domain
+│  ├─ repository: https://github.com/dchest/tweetnacl-js
+│  └─ publisher: TweetNaCl-js contributors
+├─ type-is@1.6.13
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/type-is
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\type-is\LICENSE
+├─ uid-safe@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/crypto-utils/uid-safe
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\uid-safe\LICENSE
+├─ umzug@1.11.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sequelize/umzug
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\umzug\LICENSE
+├─ underscore@1.8.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jashkenas/underscore
+│  ├─ publisher: Jeremy Ashkenas
+│  ├─ email: jeremy@documentcloud.org
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\underscore\LICENSE
+├─ unpipe@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/stream-utils/unpipe
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\unpipe\LICENSE
+├─ util-deprecate@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/TooTallNate/util-deprecate
+│  ├─ publisher: Nathan Rajlich
+│  ├─ email: nathan@tootallnate.net
+│  ├─ url: http://n8.io/
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\util-deprecate\LICENSE
+├─ utils-merge@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jaredhanson/utils-merge
+│  ├─ publisher: Jared Hanson
+│  ├─ email: jaredhanson@gmail.com
+│  ├─ url: http://www.jaredhanson.net/
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\utils-merge\LICENSE
+├─ validator@5.5.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chriso/validator.js
+│  ├─ publisher: Chris O'Hara
+│  ├─ email: cohara87@gmail.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\validator\LICENSE
+├─ vary@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/vary
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\vary\LICENSE
+├─ verror@1.3.6
+│  ├─ licenses: MIT*
+│  ├─ repository: https://github.com/davepacheco/node-verror
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\verror\LICENSE
+├─ winston@2.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/winstonjs/winston
+│  ├─ publisher: Charlie Robbins
+│  ├─ email: charlie.robbins@gmail.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\winston\LICENSE
+├─ wkx@0.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/cschwarz/wkx
+│  ├─ publisher: Christian Schwarz
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\wkx\LICENSE.txt
+├─ xml2js@0.4.17
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Leonidas-from-XIV/node-xml2js
+│  ├─ publisher: Marek Kubica
+│  ├─ email: marek@xivilization.net
+│  ├─ url: https://xivilization.net
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\xml2js\LICENSE
+├─ xmlbuilder@4.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/oozcitak/xmlbuilder-js
+│  ├─ publisher: Ozgur Ozcitak
+│  ├─ email: oozcitak@gmail.com
+│  └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\xmlbuilder\LICENSE
+└─ xtend@4.0.1
+   ├─ licenses: MIT
+   ├─ repository: https://github.com/Raynos/xtend
+   ├─ publisher: Raynos
+   ├─ email: raynos2@gmail.com
+   └─ licenseFile: C:\Users\Valentin\IdeaProjects\RegioTV\backend\node_modules\xtend\LICENCE

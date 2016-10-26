@@ -1,0 +1,33 @@
+{
+  "name": "regiotv-backend",
+  "version": "1.0.0",
+  "description": "simple server for frontend",
+  "main": "server/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Valentin Ruechardt",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "compression": "^1.6.1",
+    "cors": "^2.7.1",
+    "errorhandler": "^1.4.2",
+    "express": "^4.13.3",
+    "express-session": "^1.12.1",
+    "fs": "0.0.2",
+    "https": "^1.0.0",
+    "lodash": "^4.6.1",
+    "morgan": "^1.6.1",
+    "mysql": "^2.11.1",
+    "node-uuid": "^1.4.7",
+    "q": "^1.4.1",
+    "request": "^2.74.0",
+    "request-promise": "^4.1.1",
+    "sequelize": "^3.24.0",
+    "umzug": "^1.10.0",
+    "underscore": "^1.8.3",
+    "winston": "^2.1.0",
+    "xml2js": "^0.4.17"
+  }
+}
