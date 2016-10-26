@@ -8,5 +8,6 @@ var router  = express.Router();
 var controller = require('./api.controller.js');
 
 router.get('/', controller.sendHandshake);
+router.get('/add', controller.addition);
 
 module.exports = router;
