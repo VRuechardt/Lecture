@@ -11,7 +11,7 @@ module.exports.sendHandshake = function(req, res) {
 
 module.exports.addition = function(req, res) {
 
-    var isNumber = function(n) {
+    var isNumber = function(a) {
         return a * 1 == a;
     };
 
