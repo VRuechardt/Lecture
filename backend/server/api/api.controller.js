@@ -15,10 +15,10 @@ module.exports.addition = function(req, res) {
         return a * 1 == a;
     };
 
-    if(req.params.a && isNumber(req.params.a)
-    && req.params.b && isNumber(req.params.b)) {
+    if(req.body.a && isNumber(req.body.a)
+    && req.body.b && isNumber(req.body.b)) {
 
-        return res.status(200).json({result: a * 1 + b * 1});
+        return res.status(200).json({result: req.body.a * 1 + req.body.b * 1});
 
     } else {
 
