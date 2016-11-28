@@ -6,6 +6,7 @@ var path = require('path');
 module.exports = function(app) {
 
     app.use('/', require('./api'));
+    app.use('/calculator', express.static(path.normalize(path.join(__dirname, '../html/index.html'))));
 
     // serve static content
     /*
