@@ -1,0 +1,268 @@
+<!doctype html>
+<html>
+<head>
+	<title>Taschenrechner</title>
+	<style type="text/css">
+
+		html, body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+		}
+
+		h1 {
+			padding: 15px;
+		}
+
+		.number-display {
+			font-size: 30pt;
+			background: #DDDDDD;
+			padding: 15px 10px;
+			margin: 0 15px;
+			text-align: right;
+			width: 420px;
+			height: 45px;
+		}
+
+		.calculator-input {
+			width: 440px;
+			margin: 0 15px;
+		}
+
+		.input-button {
+			font-size: 20pt;
+			width: 25%;
+			text-align: center;
+			padding-top: 20px;
+			padding-bottom: 20px;
+			cursor: pointer;
+			float: left;
+			background: #EEE;
+			height: 31px;
+		}
+		.input-button:hover {
+			background: #DDD;
+		}
+
+		.input-button.input-number {
+			background: #29A7E6;
+		}
+
+		.input-button.input-number:hover {
+			background: #1E8FC7;
+		}
+
+	</style>
+</head>
+<body>
+	<h1>
+		Taschenrechner
+	</h1>
+
+	<div class="number-display" id="numberDisplay">
+		0
+	</div>
+
+	<div class="calculator-input">
+
+		<div class="input-button" onclick="clearAll()">
+			C
+		</div>
+		<div class="input-button" onclick="modulo()">
+			%
+		</div>
+		<div class="input-button" onclick="power()">
+			x<sup>y</sup>
+		</div>
+		<div class="input-button" onclick="squareroot()">
+			√
+		</div>
+
+		<div class="input-button input-number" onclick="number(7)">
+			7
+		</div>
+		<div class="input-button input-number" onclick="number(8)">
+			8
+		</div>
+		<div class="input-button input-number" onclick="number(9)">
+			9
+		</div>
+		<div class="input-button" onclick="add()">
+			+
+		</div>
+
+		<div class="input-button input-number" onclick="number(4)">
+			4
+		</div>
+		<div class="input-button input-number" onclick="number(5)">
+			5
+		</div>
+		<div class="input-button input-number" onclick="number(6)">
+			6
+		</div>
+		<div class="input-button" onclick="subtract()">
+			-
+		</div>
+
+		<div class="input-button input-number" onclick="number(1)">
+			1
+		</div>
+		<div class="input-button input-number" onclick="number(2)">
+			2
+		</div>
+		<div class="input-button input-number" onclick="number(3)">
+			3
+		</div>
+		<div class="input-button" onclick="multiply()">
+			x
+		</div>
+
+		<div class="input-button" onclick="divide()">
+			÷
+		</div>
+		<div class="input-button input-number" onclick="number(0)">
+			0
+		</div>
+		<div class="input-button" onclick="comma()">
+			,
+		</div>
+		<div class="input-button" onclick="calc()">
+			=
+		</div>
+
+		<div style="clear: both;"></div>
+
+	</div>
+
+	<script type="text/javascript">
+
+		var firstNumber = 0;
+		var display = '';
+		var enteredComma = false;
+		var method = '';
+
+		function updateDisplay() {
+			var show = display;
+			if(enteredComma) {
+				show += '.';
+			}
+			if(show === '') {
+				show = '';
+			}
+			document.getElementById('numberDisplay').innerText = show;
+		}
+
+		function number(n) {
+			if(enteredComma) {
+				display += '.';
+				enteredComma = false;
+			}
+			display += '' + n;
+			display *= 1;
+			updateDisplay();
+		}
+
+		function comma() {
+			if(display === '') {
+				display = '0';
+			}
+			enteredComma = true;
+			updateDisplay();
+		}
+
+		function add() {
+			if(firstNumber && method && display) {
+				calc();
+			}
+			firstNumber = display || 0;
+			method = '+';
+			display = '';
+			enteredComma = false;
+			updateDisplay();
+		}
+
+		function subtract() {
+			if(firstNumber && method && display) {
+				calc();
+			}
+			firstNumber = display || 0;
+			method = '-';
+			display = '';
+			enteredComma = false;
+			updateDisplay();
+		}
+
+		function multiply() {
+			if(firstNumber && method && display) {
+				calc();
+			}
+			firstNumber = display || 0;
+			method = '*';
+			display = '';
+			enteredComma = false;
+			updateDisplay();
+		}
+
+		function divide() {
+			if(firstNumber && method && display) {
+				calc();
+			}
+			firstNumber = display || 0;
+			method = '/';
+			display = '';
+			enteredComma = false;
+			updateDisplay();
+		}
+
+		function calc() {
+			
+			display = eval(firstNumber + method + display);
+			method = '';
+			updateDisplay();
+
+		}
+
+		function clearAll() {
+			firstNumber = 0;
+			display = '';
+			enteredComma = false;
+			method = '';
+			show = '0';
+			document.getElementById('numberDisplay').innerText = show;
+		}
+
+		function modulo() {
+			if(firstNumber && method && display) {
+				calc();
+			}
+			firstNumber = display || 0;
+			method = '%';
+			display = '';
+			enteredComma = false;
+			updateDisplay();
+		}
+
+		function power() {
+
+			if(firstNumber && method && display) {
+				calc();
+			}
+			firstNumber = display || 0;
+			method = '**';
+			display = '';
+			enteredComma = false;
+			updateDisplay();
+
+		}
+
+		function squareroot() {
+
+			display = Math.sqrt(display);
+			updateDisplay();
+
+		}
+
+	</script>
+
+</body>
+</html>
